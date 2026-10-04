@@ -14,5 +14,4 @@ data/raw/*
 *.log
 .DS_Store
 .vscode/
-data/processed/*.csv
 models/*.joblib
